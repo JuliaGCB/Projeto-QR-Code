@@ -1,0 +1,36 @@
+body {
+  background-color: #d5e1ef;
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+}
+
+img {
+  width: 270px;
+  height: 270px;
+  margin: 0px;
+  padding: 0;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+h3 {
+  font-size: 1.5vw;
+}
+
+p {
+  padding: 0 15px;
+  font-size: 1vw;
+}
+
+.box {
+  background-color: #fff;
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 35px;
+  margin: 0px;
+  border-radius: 15px;
+}
